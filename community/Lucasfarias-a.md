@@ -31,7 +31,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um apaixonado por tecnologia e atualmente
 ## 🏢 Estatísticas do GitHub Profissional  
 **Observação:** *O projeto em que trabalho é um CRM privado. As estatísticas do meu trabalho estão disponíveis nas imagens abaixo.*  
 
-> ⚠️
+> ⚠️ https://github.com/ALucasFarias
 
 ---
 
