@@ -23,15 +23,15 @@ Bem-vindo ao meu perfil no GitHub! Sou um apaixonado por tecnologia e atualmente
 
 ## 📊 Estatísticas no GitHub  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucasfarias-a&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfarias-a&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasFarias-a&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
 
 ---
 
 ## 🏢 Estatísticas do GitHub Profissional  
 **Observação:** *O projeto em que trabalho é um CRM privado. As estatísticas do meu trabalho estão disponíveis nas imagens abaixo.*  
 
-> ⚠️ https://github.com/ALucasFarias
+> ⚠️ https://github.com/ALucasFarias </br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ALucasFarias&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats)
 
 ---
 
